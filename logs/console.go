@@ -75,7 +75,8 @@ func (c *ConsoleWriter) WriteMsg(msg string, level int) error {
 		return nil
 	}
 	if goos := runtime.GOOS; goos == "windows" {
-		c.lg.Println(msg)
+		//c.lg.Println(msg)
+		ConsoleWinOut(level, msg)
 	} else {
 		c.lg.Println(colors[level](msg))
 	}
