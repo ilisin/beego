@@ -29,10 +29,10 @@ import (
 	"strings"
 	"time"
 
-	beecontext "github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/middleware"
-	"github.com/astaxie/beego/toolbox"
-	"github.com/astaxie/beego/utils"
+	beecontext "github.com/ilisin/beego/context"
+	"github.com/ilisin/beego/middleware"
+	"github.com/ilisin/beego/toolbox"
+	"github.com/ilisin/beego/utils"
 )
 
 const (

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/astaxie/beego/session"
+	"github.com/ilisin/beego/session"
 	"github.com/siddontang/ledisdb/config"
 	"github.com/siddontang/ledisdb/ledis"
 )

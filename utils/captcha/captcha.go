@@ -64,10 +64,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/cache"
-	"github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/utils"
+	"github.com/ilisin/beego"
+	"github.com/ilisin/beego/cache"
+	"github.com/ilisin/beego/context"
+	"github.com/ilisin/beego/utils"
 )
 
 var (

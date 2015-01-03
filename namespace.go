@@ -18,8 +18,8 @@ import (
 	"net/http"
 	"strings"
 
-	beecontext "github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/middleware"
+	beecontext "github.com/ilisin/beego/context"
+	"github.com/ilisin/beego/middleware"
 )
 
 type namespaceCond func(*beecontext.Context) bool

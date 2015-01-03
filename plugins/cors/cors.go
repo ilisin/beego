@@ -42,8 +42,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/astaxie/beego"
-	"github.com/astaxie/beego/context"
+	"github.com/ilisin/beego"
+	"github.com/ilisin/beego/context"
 )
 
 const (

@@ -31,8 +31,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/astaxie/beego/middleware"
-	"github.com/astaxie/beego/utils"
+	"github.com/ilisin/beego/middleware"
+	"github.com/ilisin/beego/utils"
 )
 
 // Http request context struct including BeegoInput, BeegoOutput, http.Request and http.ResponseWriter.

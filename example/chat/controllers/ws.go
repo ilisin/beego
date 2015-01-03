@@ -12,8 +12,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/astaxie/beego"
 	"github.com/gorilla/websocket"
+	"github.com/ilisin/beego"
 )
 
 const (

@@ -41,8 +41,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/astaxie/beego/config"
 	"github.com/beego/x2j"
+	"github.com/ilisin/beego/config"
 )
 
 // XmlConfig is a xml config parser and implements Config interface.

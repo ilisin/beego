@@ -56,7 +56,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/astaxie/beego/session"
+	"github.com/ilisin/beego/session"
 
 	_ "github.com/lib/pq"
 )

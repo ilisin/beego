@@ -36,7 +36,7 @@ import (
 
 	"github.com/bradfitz/gomemcache/memcache"
 
-	"github.com/astaxie/beego/cache"
+	"github.com/ilisin/beego/cache"
 )
 
 // Memcache adapter.
